@@ -52,7 +52,7 @@ This Arduino library allows you to use Deneyap Gesture Sensor NCS36000 with I2C 
 |SWIM 	| Debug 	| no connection |
 |RES  	| Debug 	| no connection |
 |OUT 	| Data Output|any GPIO pin| 
-|AOUT | Raq Data Output|any GPIO pin| 
+|AOUT | Raw Data Output|any GPIO pin| 
 
 ## :bookmark_tabs:License Information
 Please review the [LICENSE](https://github.com/deneyapkart/deneyap-hareket-algilama-arduino-library/blob/master/LICENSE) file for license information.
