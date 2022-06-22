@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For	Deneyap_HareketAlgilama
+#######################################
+
+#######################################
+# Library (KEYWORD1)
+#######################################
+
+Deneyap_HareketAlgilama	KEYWORD1 
+
+####################################
+# Class (KEYWORD1)
+####################################
+
+Gesture	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+isConnected	KEYWORD2
+getFwVersion	KEYWORD2
+setI2Caddress	KEYWORD2
+readGesture	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+######################################
